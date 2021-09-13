@@ -2,9 +2,7 @@
 
 I am a passionate frontend developer, a little bit about me:
 
-- 🔭 I’m currently working on my capstone project at UVU
-- 🌱 I’m currently learning Node.js
-- 🤔 I’m looking for help with any front end project
+- 🤔 I’m looking to help with any front end project
 - 💬 Ask me about how I spend my free time
 - 📫 How to reach me: raul_mandujano@hotmail.com
 - 😄 My name pronouns: rah-UUL man-DOO-HAH-noh
