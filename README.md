@@ -57,7 +57,7 @@ so this README shows up on your profile.
 ## 🌎 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/raul-mandujano)
 [![Portfolio](https://img.shields.io/badge/Portfolio-151515?style=flat&logo=vercel&logoColor=white)](https://raulxd.com)
-[![Email](https://img.shields.io/badge/Email-hola%40raulmandujano.dev-D14836?style=flat&logo=gmail&logoColor=white)](mailto:evanodevelopment@gmail.com)
+[![Email](https://img.shields.io/badge/Email-raul%40mandujano.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:evanodevelopment@outlook.com)
 
 ---
 
