@@ -49,7 +49,6 @@ so this README shows up on your profile.
 |----------|------|-------------|
 | [Evano SaaS](#) | React + Firebase | A modern SaaS web app focused on performance and scalability. |
 | [MedicalRecord](#) | Vue + TailwindCSS | Health form management app with DocuSign integration. |
-| [Utah Web Project](#) | HTML + CSS + JS | WGU university web design project focusing on accessibility & responsive layout. |
 
 > *(I update this section regularly — check back for my latest builds!)*
 
@@ -57,9 +56,8 @@ so this README shows up on your profile.
 
 ## 🌎 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/raul-mandujano)
-[![Portfolio](https://img.shields.io/badge/Portfolio-151515?style=flat&logo=vercel&logoColor=white)](https://raulmandujano.dev)
-[![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/RaulMandujanoDev)
-[![Email](https://img.shields.io/badge/Email-hola%40raulmandujano.dev-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hola@raulmandujano.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-151515?style=flat&logo=vercel&logoColor=white)](https://raulxd.com)
+[![Email](https://img.shields.io/badge/Email-hola%40raulmandujano.dev-D14836?style=flat&logo=gmail&logoColor=white)](mailto:evanodevelopment@gmail.com)
 
 ---
 
