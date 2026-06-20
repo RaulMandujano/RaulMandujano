@@ -8,7 +8,7 @@
 ## 🚀 About Me  
 I’m a developer focused on **building real SaaS products**, not just writing code.
 
-- ⚡ Founder @ **Evano Development**  
+- ⚡ Founder @ **Evano.Dev**  
 - 🧠 Building **AI-powered platforms and CRM systems**  
 - 💻 Specialized in **React, Next.js, and modern frontend architecture**  
 - 🔥 Focused on **UX, scalability, and product execution**  
